@@ -27,7 +27,8 @@ em seu computador.
 ```
 
 - Remote Repository (Repositório Remoto)
-```Remote Repository (Repositório Remoto) é uma cópia do repositório local que está hospedada em um servidor remoto, 
+```
+Remote Repository (Repositório Remoto) é uma cópia do repositório local que está hospedada em um servidor remoto, 
 como o GitHub, GitLab ou Bitbucket. O repositório remoto serve como um ponto centralizado para colaboração entre várias 
 pessoas. Ele permite que você compartilhe seu código com outros desenvolvedores, sincronize alterações 
 entre diferentes máquinas e faça backup do seu trabalho. 
