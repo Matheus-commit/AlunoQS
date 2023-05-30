@@ -2,7 +2,7 @@
  
 ## Aprendendo um pouco mais sobre o git...
 
-- Working Tree (Árvore de Trabalho)
+- <b>Working Tree (Árvore de Trabalho)</b>
 ```
 É diretório em seu sistema de arquivos local onde você está realizando as alterações em seus arquivos. 
 É a área onde você edita, adiciona e remove arquivos antes de registrá-los no Git. 
