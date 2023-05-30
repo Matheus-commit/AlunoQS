@@ -34,5 +34,3 @@ entre diferentes máquinas e faça backup do seu trabalho.
 Você pode enviar (push) seus commits do repositório local para o repositório remoto e receber (pull) as atualizações 
 feitas por outras pessoas no repositório remoto para o seu repositório local.
 ```
-
-
