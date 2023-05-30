@@ -15,6 +15,10 @@ O Working Tree representa o estado atual do seu projeto.
 você pode selecionar quais alterações deseja incluir no próximo commit adicionando-os à Stage Area. 
 Essa etapa é conhecida como "preparar" ou "indexar" as alterações. A Stage Area permite que você selecione quais alterações 
 específicas devem ser registradas no próximo commit.
+
+O Commit (Confirmação) é um registro permanente de um conjunto de alterações no repositório. Quando você faz um commit, 
+as alterações que estavam na Stage Area são salvas no histórico do Git, junto com uma mensagem descritiva. 
+Cada commit é identificado por um hash exclusivo e representa um ponto na linha do tempo do seu projeto.
 ```
 
 - Local Repository (Repositório Local)
