@@ -21,8 +21,9 @@ Cada commit é identificado por um hash exclusivo e representa um ponto na linha
 
 - Local Repository (Repositório Local)
 ```Local Repository (Repositório Local) é a versão do seu projeto que está armazenada em sua máquina local. 
-Ele contém todo o histórico de commits, ramos (branches), tags e metadados relacionados ao seu projeto. O repositório local permite 
-que você trabalhe no projeto, faça commits e mantenha o controle de todas as alterações em seu computador.
+Ele contém todo o histórico de commits, ramos (branches), tags e metadados relacionados ao seu projeto. 
+O repositório local permite que você trabalhe no projeto, faça commits e mantenha o controle de todas as alterações 
+em seu computador.
 ```
 
 - Remote Repository (Repositório Remoto)
