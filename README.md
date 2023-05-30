@@ -8,3 +8,19 @@
 É a área onde você edita, adiciona e remove arquivos antes de registrá-los no Git. 
 O Working Tree representa o estado atual do seu projeto.
 ```
+
+- Stage Area (Área de Preparação)
+
+```É diretório em seu sistema de arquivos local onde você está realizando as alterações em seus arquivos. 
+É a área onde você edita, adiciona e remove arquivos antes de registrá-los no Git. 
+O Working Tree representa o estado atual do seu projeto.
+```
+
+- Local Repository (Repositório Local)
+
+
+- Remote Repository (Repositório Remoto)
+
+
+
+
