@@ -20,14 +20,16 @@ Cada commit é identificado por um hash exclusivo e representa um ponto na linha
 ```
 
 - Local Repository (Repositório Local)
-```É diretório em seu sistema de arquivos local onde você está realizando as alterações em seus arquivos. 
-É a área onde você edita, adiciona e remove arquivos antes de registrá-los no Git. 
-O Working Tree representa o estado atual do seu projeto.
+```Local Repository (Repositório Local) é a versão do seu projeto que está armazenada em sua máquina local. 
+Ele contém todo o histórico de commits, ramos (branches), tags e metadados relacionados ao seu projeto. O repositório local permite 
+que você trabalhe no projeto, faça commits e mantenha o controle de todas as alterações em seu computador.
 ```
 
-
 - Remote Repository (Repositório Remoto)
-
-
+```Remote Repository (Repositório Remoto) é uma cópia do repositório local que está hospedada em um servidor remoto, como o GitHub,
+GitLab ou Bitbucket. O repositório remoto serve como um ponto centralizado para colaboração entre várias pessoas. Ele permite que você 
+compartilhe seu código com outros desenvolvedores, sincronize alterações entre diferentes máquinas e faça backup do seu trabalho. Você pode enviar (push) 
+seus commits do repositório local para o repositório remoto e receber (pull) as atualizações feitas por outras pessoas no repositório remoto para o seu repositório local.
+```
 
 
