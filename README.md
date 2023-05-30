@@ -9,7 +9,7 @@
 O Working Tree representa o estado atual do seu projeto.
 ```
 
-- Stage Area (Área de Preparação)
+- <b>Stage Area (Área de Preparação)</b>
 ```
 É uma área intermediária entre o Working Tree e o Commit. Após realizar alterações nos arquivos do Working Tree,
 você pode selecionar quais alterações deseja incluir no próximo commit adicionando-os à Stage Area. 
@@ -21,7 +21,7 @@ as alterações que estavam na Stage Area são salvas no histórico do Git, junt
 Cada commit é identificado por um hash exclusivo e representa um ponto na linha do tempo do seu projeto.
 ```
 
-- Local Repository (Repositório Local)
+- <b>Local Repository (Repositório Local)</b>
 ```
 Local Repository (Repositório Local) é a versão do seu projeto que está armazenada em sua máquina local. 
 Ele contém todo o histórico de commits, ramos (branches), tags e metadados relacionados ao seu projeto. 
@@ -29,7 +29,7 @@ O repositório local permite que você trabalhe no projeto, faça commits e mant
 em seu computador.
 ```
 
-- Remote Repository (Repositório Remoto)
+- <b>Remote Repository (Repositório Remoto)</b>
 ```
 Remote Repository (Repositório Remoto) é uma cópia do repositório local que está hospedada em um servidor remoto, 
 como o GitHub, GitLab ou Bitbucket. O repositório remoto serve como um ponto centralizado para colaboração entre várias 
